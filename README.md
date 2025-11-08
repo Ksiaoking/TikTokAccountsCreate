@@ -1,7 +1,5 @@
 # TikTokAccountsCreate
-
 Telegram: https://t.me/ksiaoking
-
 
 ### tiktok API
 ### login to the user by email and username
